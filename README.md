@@ -1,6 +1,5 @@
 # BinaryCompresser-Streamlit
 [![Powered by Streamlit](https://img.shields.io/badge/Powered%20by-Streamlit-ff69b4)](https://www.streamlit.io/)
-[![Deployment](https://img.shields.io/badge/Deployment-Streamlit-blueviolet)](https://streamsign.streamlit.app/)
 [![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](https://your-url)
 
 Welcome to BinaryCompresser-Streamlit, a User interface for the [BinaryCompresser Project](https://github.com/hamdi3/BinaryCompresser) i did.
